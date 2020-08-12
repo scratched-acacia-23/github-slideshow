@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**What did the blue whale say to the porpoise, "What's your porpoise**
 Use the left arrow to go back!
